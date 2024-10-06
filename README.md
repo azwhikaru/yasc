@@ -4,7 +4,7 @@ Yet Another ~~*Cannot be simpler*~~ Subscription Converter, build with Vue3
 
 ## Demo
 
-[Here](https://yasc.azwhikaru.com)
+[Here](https://azwhikaru.github.io/yasc/)
 
 ## Description
 
